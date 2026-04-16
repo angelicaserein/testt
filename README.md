@@ -28,3 +28,12 @@ The tools and the specific cooperation methods we used
 
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,github,npm,notion,figma)](https://skillicons.dev)
+
+
+## I. 小组使用的工具与具体合作方式
+
+### 会议 ![](https://skillicons.dev/icons?i=notion&theme=light&perline=1) 
+线下利用课后时间面对面讨论...
+
+### 版本控制 [![](https://skillicons.dev/icons?i=github)](https://github.com)
+所有代码提交和版本发布的唯一平台。
