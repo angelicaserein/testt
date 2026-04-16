@@ -11,3 +11,7 @@
 [![Lucidchart](https://img.shields.io/badge/Lucidchart-类图工具-FF6B00?style=flat)](https://lucidchart.com)
 
 [![Planning Poker](https://img.shields.io/badge/Planning_Poker-故事点估算-5B4FBE?style=flat)](https://planningpokeronline.com)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,github,npm,notion,figma)](https://skillicons.dev)
