@@ -37,3 +37,11 @@ The tools and the specific cooperation methods we used
 
 ### 版本控制 [![](https://skillicons.dev/icons?i=github)](https://github.com)
 所有代码提交和版本发布的唯一平台。
+
+
+## I. 小组使用的工具与具体合作方式
+
+![](https://skillicons.dev/icons?i=github,npm,figma,notion)
+
+### 会议（线下 + 线上）
+线下利用课后时间...
